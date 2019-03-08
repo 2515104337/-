@@ -1,0 +1,159 @@
+[ 2018-04-16T11:50:43+08:00 ] 127.0.0.1 /ElectiveSystem/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.025158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025442s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.044784s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.045023s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.300635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.300862s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001567s ]
+
+[ 2018-04-16T11:51:36+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003127s ]
+SQL: SHOW COLUMNS FROM `student` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `student` WHERE `StuNo` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `college` [ RunTime:0.0026s ]
+SQL: SELECT * FROM `college` WHERE `CollegeNo` = '01' LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: collegeno D:\wamp\www\ElectiveSystem\Home\Controller\IndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `major` [ RunTime:0.0044s ]
+SQL: SELECT * FROM `major` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: student D:\wamp\www\ElectiveSystem\Home\Controller\IndexController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039666s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039826s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004663s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002815s ]
+
+[ 2018-04-16T11:51:37+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Student/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004346s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000434s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064226s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064405s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003837s ]
+
+[ 2018-04-16T11:51:41+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Student/chooseCourse.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002739s ]
+SQL: SHOW COLUMNS FROM `student` [ RunTime:0.0015s ]
+SQL: SELECT * FROM student st INNER JOIN college as cl on cl.Collegeno=st.Collegeno  WHERE `StuNo` = '1' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0220s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `course` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT c.*,sc.StuNo FROM course c LEFT JOIN stucou as sc on sc.CouNo = c.CouNo and sc.StuNo = '1'  ORDER BY CouNo LIMIT 0,25   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+NOTIC: [8] Use of undefined constant stuno - assumed 'stuno' D:\wamp\www\ElectiveSystem\Runtime\Cache\Home\cc6e8bc3fde2ebc01202379ece0270a0.php 第 45 行.
+NOTIC: [8] Use of undefined constant stuno - assumed 'stuno' D:\wamp\www\ElectiveSystem\Runtime\Cache\Home\cc6e8bc3fde2ebc01202379ece0270a0.php 第 45 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002756s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003844s ]
+
+[ 2018-04-16T11:51:51+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Student/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002516s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000259s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016306s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002808s ]
+
+[ 2018-04-16T11:51:52+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Student/courseList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002944s ]
+SQL: SHOW COLUMNS FROM `stucou` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `stucou` WHERE `StuNo` = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `course` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `course` WHERE `CouNo` = 1 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002067s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003015s ]
+
+[ 2018-04-16T11:51:55+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Student/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002342s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012721s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003979s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002916s ]
+

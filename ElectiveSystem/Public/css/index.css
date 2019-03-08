@@ -1,0 +1,75 @@
+@charset "utf-8";
+.all{
+    margin: 0;
+    padding: 0;
+    background: url('../img/background.jpg');
+    repeat: no-repeat;
+    background-attachment:fixed;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/background.jpg', sizingMethod='scale');
+    -ms-filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/background.jpg', sizingMethod='scale');
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+
+   /* background:url("../img/background.jpg");
+    background-size:100%;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    color: white;*/
+}
+.A{
+    display: -webkit-box;
+}
+.a{
+    -webkit-box-flex: 1;
+    display:-webkit-box;
+    -webkit-box-orient: vertical;
+    height:700px;
+
+}
+.b{
+    -webkit-box-flex: 1;
+
+}
+.login{
+    display:-webkit-box;
+    -webkit-box-orient: vertical;
+}
+.title{
+    -webkit-box-flex: 1;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 2%;
+    padding-left: 3%;
+}
+.in{
+    -webkit-box-flex: 1;
+    text-align: center;
+}
+.select{
+    -webkit-box-flex: 1;
+    text-align: center;
+}
+.input{
+    width:35%;
+    height:30px;
+    margin-bottom: 2%;
+}
+.selec{
+    width:36%;
+    height:30px;
+    margin-bottom: 2%;
+}
+.button{
+    -webkit-box-flex: 1;
+    text-align: center;
+    padding-left: 7%;
+}
+.butto{
+    width:38%;
+    height:30px;
+    margin-bottom: 2%;
+    background-color: cornflowerblue;
+    border:none;
+    color: white;
+}

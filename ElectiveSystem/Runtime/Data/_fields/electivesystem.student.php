@@ -1,0 +1,1 @@
+a:8:{i:0;s:5:"StuNo";i:1;s:7:"StuName";i:2;s:3:"Pwd";i:3;s:9:"CollegeNo";i:4;s:9:"MajorName";i:5;s:3:"Sex";s:3:"_pk";s:5:"StuNo";s:5:"_type";a:6:{s:5:"StuNo";s:7:"int(12)";s:7:"StuName";s:8:"char(10)";s:3:"Pwd";s:8:"char(15)";s:9:"CollegeNo";s:8:"char(10)";s:9:"MajorName";s:8:"char(20)";s:3:"Sex";s:7:"char(2)";}}

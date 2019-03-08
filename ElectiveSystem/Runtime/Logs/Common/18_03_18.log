@@ -1,0 +1,66 @@
+[ 2018-03-18T21:23:17+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Manager/manedit_do.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+ERR: 无法加载模块:Manager
+
+[ 2018-03-18T21:27:24+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Manager/manedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+ERR: 无法加载模块:Manager
+
+[ 2018-03-18T21:27:51+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Manager/manedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+ERR: 无法加载模块:Manager
+
+[ 2018-03-18T21:27:56+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Manager/manedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Manager
+
+[ 2018-03-18T21:29:57+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Manager/manedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Manager
+
+[ 2018-03-18T21:31:03+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Manager/manedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载模块:Manager
+
+[ 2018-03-18T21:31:09+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Manager/manedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Manager
+
+[ 2018-03-18T21:39:34+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-18T21:42:34+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Index
+
+[ 2018-03-18T21:44:20+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Manager/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Manager
+
+[ 2018-03-18T21:47:16+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Manager/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Manager
+

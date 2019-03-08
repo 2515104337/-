@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>学生已选课程</title>
+    <link rel="stylesheet" href="__ROOT__/public/css/student_courseList.css" />
+</head>
+
+<body class="all">
+    <div class="A">
+        <div class="link"><a href="{:U('/Home/Index/index')}">退出登录</a></div>
+        <div class="link"><a href="{:U('/Home/Student/index')}">返回</a></div>
+    </div>
+    <div class="B"></div>
+
+    <table cellspacing="0" class="table">
+        <tr>
+            <td class="title">课程编号</td>
+            <td class="title">课程名称</td>
+            <td class="title">课程老师</td>
+            <td class="title">时间</td>
+            <td class="title">地点</td>
+            <td class="title">学分</td>
+            <td class="title">课时</td>
+            <td class="title">实验课时</td>
+            <td class="title">已选人数</td>
+            <td class="title">人数上限</td>
+            <td class="title">操作</td>
+        </tr>
+
+        <volist name="list" id="vo">
+            <tr>
+                <!-- <?php var_dump($vo);?> -->
+                <td class="td">{$vo.CouNo}</td>
+                <td class="td3">{$vo.CouName}</td>
+                <td class="td">{$vo.TeaName}</td>
+                <td class="td">{$vo.SchoolTime}</td>
+                <td class="td">{$vo.Location}</td>
+                <td class="td">{$vo.Credit}</td>
+                <td class="td">{$vo.ClassHour}</td>
+                <td class="td">{$vo.ExpHour}</td>
+                <td class="td">{$vo.ChooseNum}</td>
+                <td class="td">{$vo.LimitNum}</td>
+                <td class="td2"><a href="{:U("/Home/Student/delete/CouNo/$vo[CouNo]")}">删除</a></td>
+            </tr>
+        </volist>
+    </table>
+    
+
+</body>
+</html>

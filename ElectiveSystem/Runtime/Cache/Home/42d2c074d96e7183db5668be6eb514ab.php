@@ -1,0 +1,17 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <title>批量添加学生/老师信息</title>
+</head>
+<body>
+   <section>
+      <form action="<?php echo U('Home/Manager/upload');?>" enctype="multipart/form-data" method="post">
+         <input type="text" name="name" />
+         <input id="input" type="file" name="excel" multiple="multiple" />
+         <div id="content"></div>
+         <input type="submit" value="提交">
+      </form>
+   </section>
+</body>
+</html>

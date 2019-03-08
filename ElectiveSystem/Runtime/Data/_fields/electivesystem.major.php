@@ -1,0 +1,1 @@
+a:5:{i:0;s:9:"CollegeNo";i:1;s:9:"MajorName";i:2;s:7:"MajorNo";s:3:"_pk";s:9:"CollegeNo";s:5:"_type";a:3:{s:9:"CollegeNo";s:7:"int(10)";s:9:"MajorName";s:8:"char(20)";s:7:"MajorNo";s:8:"char(10)";}}

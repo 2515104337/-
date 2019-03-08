@@ -1,0 +1,1 @@
+a:5:{i:0;s:5:"ManNo";i:1;s:7:"ManName";i:2;s:3:"Pwd";s:3:"_pk";s:5:"ManNo";s:5:"_type";a:3:{s:5:"ManNo";s:7:"int(10)";s:7:"ManName";s:8:"char(20)";s:3:"Pwd";s:8:"char(10)";}}

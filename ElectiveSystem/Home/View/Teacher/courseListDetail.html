@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>课程选课详情</title>
+    <link rel="stylesheet" href="__ROOT__/public/css/teacher_courseListDetail.css" />
+</head>
+
+<body class="all">
+    <div class="A">
+        <div class="link"><a href="{:U('/Home/Index/index')}">退出登录</a></div>
+        <div class="link"><a href="{:U('/Home/Teacher/coulist')}">返回</a></div>
+        <div class="link"><a href="{:U('/Home/Teacher/excel')}">导出表单</a></div>
+    </div>
+    <div class="B"></div>
+
+
+    <table cellspacing="0" class="table">
+        <tr>
+            <td class="title">学号</td>
+            <td class="title">姓名</td>
+            <td class="title">学院名称</td>
+            <td class="title">专业名称</td>
+            <td class="title">性别</td>
+        </tr>
+
+        <volist name="list" id="vo">
+        <tr>
+            <td class="td">{$vo.StuNo}</td>
+            <td class="td">{$vo.StuName}</td>
+            <td class="td">{$vo.CollegeName}</td>
+            <td class="td">{$vo.MajorName}</td>
+            <td class="td">{$vo.Sex}</td>
+        </tr>
+        </volist>
+    </table>
+
+
+</body>
+
+</html>

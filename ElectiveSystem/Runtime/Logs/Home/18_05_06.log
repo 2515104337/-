@@ -1,0 +1,339 @@
+[ 2018-05-06T12:05:42+08:00 ] 127.0.0.1 /ElectiveSystem/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012702s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006096s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000524s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.117839s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118925s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004048s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004830s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004966s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005705s ]
+
+[ 2018-05-06T12:06:08+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Index/checkLogin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007280s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0600s ]
+SQL: SELECT * FROM `manager` WHERE `ManNo` = 33 LIMIT 1   [ RunTime:0.0015s ]
+NOTIC: [8] Undefined index: manger D:\wamp\www\ElectiveSystem\Home\Controller\IndexController.class.php 第 117 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000692s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002702s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048306s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002926s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005894s ]
+
+[ 2018-05-06T12:06:11+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003630s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000402s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002224s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001726s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003689s ]
+
+[ 2018-05-06T12:06:14+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/manedit_do.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005064s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.0183s ]
+SQL: SELECT * FROM `manager` WHERE `ManNo` = 33 LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000246s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001005s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034771s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001706s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002288s ]
+
+[ 2018-05-06T12:06:15+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/manedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000476s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001325s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055124s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055773s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003524s ]
+
+[ 2018-05-06T12:06:19+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006214s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000728s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039278s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001777s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002291s ]
+
+[ 2018-05-06T12:06:20+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/stuadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002254s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000389s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001203s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057722s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001767s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002368s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003610s ]
+
+[ 2018-05-06T12:06:26+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/uploadfile.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003225s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000623s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001571s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001782s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001967s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002433s ]
+
+[ 2018-05-06T12:06:31+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002357s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000258s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000728s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002910s ]
+
+[ 2018-05-06T12:06:33+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/tealist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003412s ]
+SQL: SHOW COLUMNS FROM `teacher` [ RunTime:0.0273s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `teacher` LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT `TeaNo`,`TeaName`,`Pwd`,`CollegeNo`,`CollegeName`,`Introduction`,`Sex` FROM `teacher` ORDER BY TeaNo LIMIT 0,10   [ RunTime:0.0060s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000267s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000735s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050685s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003315s ]
+
+[ 2018-05-06T12:06:38+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/tealist/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004803s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004025s ]
+SQL: SHOW COLUMNS FROM `teacher` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `teacher` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `TeaNo`,`TeaName`,`Pwd`,`CollegeNo`,`CollegeName`,`Introduction`,`Sex` FROM `teacher` ORDER BY TeaNo LIMIT 10,10   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000251s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000789s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045452s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002227s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002701s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003128s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003881s ]
+
+[ 2018-05-06T12:06:41+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/tealist/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000160s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003521s ]
+SQL: SHOW COLUMNS FROM `teacher` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `teacher` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `TeaNo`,`TeaName`,`Pwd`,`CollegeNo`,`CollegeName`,`Introduction`,`Sex` FROM `teacher` ORDER BY TeaNo LIMIT 0,10   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000693s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001945s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002832s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003444s ]
+
+[ 2018-05-06T12:14:48+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/teaedit_do.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005310s ]
+SQL: SHOW COLUMNS FROM `teacher` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `teacher` WHERE `TeaNo` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000388s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002671s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004756s ]
+
+[ 2018-05-06T12:14:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/teaedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002274s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000390s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.107399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.107864s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002220s ]
+
+[ 2018-05-06T12:14:55+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/tealist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004607s ]
+SQL: SHOW COLUMNS FROM `teacher` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `teacher` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `TeaNo`,`TeaName`,`Pwd`,`CollegeNo`,`CollegeName`,`Introduction`,`Sex` FROM `teacher` ORDER BY TeaNo LIMIT 0,10   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000400s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002922s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003270s ]
+
+[ 2018-05-06T12:17:55+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Home/Manager/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003534s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000234s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000926s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031225s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001897s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002962s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003393s ]
+

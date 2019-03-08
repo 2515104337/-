@@ -1,0 +1,698 @@
+[ 2018-03-20T12:46:30+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013239s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:30+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001940s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:30+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001902s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:30+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jQuery1.7.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001853s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:30+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002782s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:30+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:30+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:30+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:30+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001188s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:31+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jQuery1.7.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002505s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:31+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003167s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:31+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009976s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:31+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001959s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:31+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001830s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:31+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001918s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:31+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001890s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:46:31+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:46+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/css/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006970s ]
+ERR: 无法加载控制器:Css
+
+[ 2018-03-20T12:53:46+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007294s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:46+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002147s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:46+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jQuery1.7.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003999s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:46+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002085s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:46+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001638s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:46+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005910s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:46+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:46+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001188s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:46+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003067s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jQuery1.7.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001856s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002023s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/css/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003299s ]
+ERR: 无法加载控制器:Css
+
+[ 2018-03-20T12:53:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003685s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002046s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001483s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001268s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001746s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/css/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014789s ]
+ERR: 无法加载控制器:Css
+
+[ 2018-03-20T12:53:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jQuery1.7.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001859s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002956s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003950s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001439s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002786s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001187s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001176s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:53:49+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001176s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/css/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002554s ]
+ERR: 无法加载控制器:Css
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jQuery1.7.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010584s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001927s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001916s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005093s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001908s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/public/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/public/img/0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/public/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002244s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/public/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/public/img/0.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+
+[ 2018-03-20T12:56:00+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/public/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005775s ]
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002612s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jQuery1.7.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002320s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/css/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005214s ]
+ERR: 无法加载控制器:Css
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004083s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003540s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001855s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/public/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/public/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/public/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+
+[ 2018-03-20T12:56:32+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/public/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002308s ]
+
+[ 2018-03-20T12:56:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001874s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003080s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jQuery1.7.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003275s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001979s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/css/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002747s ]
+ERR: 无法加载控制器:Css
+
+[ 2018-03-20T12:56:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004170s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery-1.8.2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002669s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery1.42.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001621s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/jquery.SuperSlide.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+ERR: 无法加载控制器:Js
+
+[ 2018-03-20T12:56:47+08:00 ] 127.0.0.1 /ElectiveSystem/index.php/Public/js/Validform_v5.3.2_min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001597s ]
+ERR: 无法加载控制器:Js
+
